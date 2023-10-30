@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useEffect } from "react";
 import {
   Bars3Icon,
   ArrowRightOnRectangleIcon,
@@ -12,6 +12,7 @@ const Dashboard = () => {
   const logout = () => {
     navigate("/");
   };
+
   return (
     <Fragment>
       <main className="relative h-screen overflow-hidden bg-gray-100 dark:bg-gray-800">
