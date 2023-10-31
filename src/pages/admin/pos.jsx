@@ -171,8 +171,8 @@ function POS() {
                   Billing System
                 </h1>
                 <h2 className="text-gray-400 text-md">
-                  Building Futures, Serving Clients Today. Just Drop the Service
-                  We Take All Responsible.
+                  Effortless Transactions, Delighting Customers Now. Just Serve,
+                  We Handle the Rest.
                 </h2>
 
                 <div className="grid grid-cols-1 gap-4 my-4 md:grid-cols-2 lg:grid-cols-3">
