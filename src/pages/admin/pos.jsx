@@ -208,7 +208,7 @@ function POS() {
                           >
                             <span className="text-sm">
                               {" "}
-                              Watalappam - Rs.200{" "}
+                              Watalappam - Rs.180{" "}
                             </span>
                           </label>
                         </div>

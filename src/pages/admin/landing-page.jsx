@@ -304,11 +304,11 @@ function LandingPage() {
                     </div>
                     <div className="flex items-center justify-between pb-2 mb-2 text-sm border-b border-gray-200 sm:space-x-12">
                       <p>Selling Price</p>
-                      <div className="flex items-end text-xs">Rs. 200</div>
+                      <div className="flex items-end text-xs">Rs. 180</div>
                     </div>
                     <div className="flex items-center justify-between pb-2 mb-2 text-sm border-b border-gray-200 sm:space-x-12">
                       <p>Profit</p>
-                      <div className="flex items-end text-xs">Rs. 85</div>
+                      <div className="flex items-end text-xs">Rs. 65</div>
                     </div>
                     <div className="flex items-center justify-between pb-2 mb-2 text-sm border-b border-gray-200 sm:space-x-12">
                       <p>Quantity</p>
@@ -319,13 +319,13 @@ function LandingPage() {
                       <div className=" text-lg flex items-center justify-between pb-2 mb-2 space-x-12  md:space-x-24">
                         <p>Total Profit</p>
                         <div className="flex items-end text-lg font-bold bg-green-50 p-1 text-green-800 rounded-xl">
-                          Rs.{85 * items.watalappam.quantity}
+                          Rs.{65 * items.watalappam.quantity}
                         </div>
                       </div>
                       <div className=" text-lg flex items-center justify-between pb-2 mb-2 space-x-12  md:space-x-24">
                         <p>Total Earnings</p>
                         <div className="flex items-end text-lg font-bold bg-gray-100 p-1 rounded-xl">
-                          Rs.{200 * items.watalappam.quantity}
+                          Rs.{180 * items.watalappam.quantity}
                         </div>
                       </div>
 
