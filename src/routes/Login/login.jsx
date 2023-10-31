@@ -153,7 +153,7 @@ function Login() {
 
         <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2">
           <img
-            src="https://i.pinimg.com/736x/50/9f/ab/509fab0bbc429433a782f01525e9dfe5.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sri_Lankan_Rice_and_Curry.jpg"
             className="absolute inset-0 h-full w-full object-cover"
             alt="Habibi Stall"
           />
